@@ -1,0 +1,207 @@
+Number of Levels:   4
+Grid Parameters {xmin, ymin, xmax, ymax, xtic, ytic}
+    -23.01     -19.94      16.99      10.06       1.00       1.00
+Level:   1
+Line
+{Repeats, rate, linewidth, x1, y1, x2, y2}
+  1  1.000  2.000 -1.750  1.100 -1.750  8.000
+
+
+Line
+{Repeats, rate, linewidth, x1, y1, x2, y2}
+  1  1.000  2.000 -1.750 -8.000 -1.750 -1.100
+
+
+Line
+{Repeats, rate, linewidth, x1, y1, x2, y2}
+  1  1.000  2.000  1.750  1.100  1.750  8.000
+
+
+Line
+{Repeats, rate, linewidth, x1, y1, x2, y2}
+  1  1.000  2.000  1.750 -8.000  1.750 -1.100
+
+
+Line
+{Repeats, rate, linewidth, x1, y1, x2, y2}
+  1  1.000  2.000  2.850 -1.925  6.000 -1.925
+
+
+Line
+{Repeats, rate, linewidth, x1, y1, x2, y2}
+  1  1.000  2.000 -6.000 -1.925 -2.850 -1.925
+
+
+Line
+{Repeats, rate, linewidth, x1, y1, x2, y2}
+  1  1.000  2.000 -6.000  1.925 -2.850  1.925
+
+
+Line
+{Repeats, rate, linewidth, x1, y1, x2, y2}
+  1  1.000  2.000  2.850  1.925  6.000  1.925
+
+
+Level:   2
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -5.000  2.000 -1.750  2.000 -1.750  7.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -5.000 -2.000 -1.750 -2.000 -1.750 -7.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000 -2.000  1.750 -2.000  1.750 -7.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000  2.000  1.750  2.000  1.750  7.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000  2.000  5.000  7.000  1.750  7.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000 -7.000 -5.000 -7.000 -5.000 -9.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000  7.000 -5.000  7.000 -5.000  9.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000  7.000  5.000  9.000 -5.000  9.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000 -7.000  5.000 -9.000 -5.000 -9.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000 -9.000  5.000  9.000  9.000  9.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -5.000 -9.000 -5.000  9.000 -9.000  9.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -9.000 -9.000 -5.000 -9.000 -9.000  9.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -5.000  2.000 -5.000  7.000 -1.750  7.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -5.000 -2.000 -5.000 -7.000 -1.750 -7.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  5.000 -2.000  5.000 -7.000  1.750 -7.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  9.000 -9.000  5.000 -9.000  9.000  9.000
+
+
+Level:   3
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -8.000  8.000  8.000  8.000  8.000 25.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  8.000 -8.000 -8.000 -8.000 -8.000 -25.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  8.000 -8.000  8.000 -25.000 -8.000 -25.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -8.000  8.000 -8.000 25.000  8.000 25.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  8.000 -25.000  8.000 25.000 25.000 -25.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000  8.000 25.000 25.000 25.000 25.000 -25.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -8.000 -25.000 -25.000 -25.000 -25.000 25.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -8.000 -25.000 -8.000 25.000 -25.000 25.000
+
+
+Level:   4
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 24.000 24.000 -24.000 24.000 -24.000 75.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -24.000 -24.000 24.000 -24.000 24.000 -75.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -24.000 -24.000 -24.000 -75.000 24.000 -75.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 24.000 24.000 24.000 75.000 -24.000 75.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 75.000 -75.000 24.000 -75.000 75.000 75.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 24.000 75.000 24.000 -75.000 75.000 75.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -24.000 75.000 -24.000 -75.000 -75.000 -75.000
+
+
+Triangle
+{Repeats, rate, linewidth, x1, y1, x2, y2, x3, y3}
+  1  1.000  0.000 -24.000 75.000 -75.000 75.000 -75.000 -75.000
+
+
